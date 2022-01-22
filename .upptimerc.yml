@@ -4,9 +4,7 @@ assignees:
   - BapRx
 
 sites:
-  - name: Gitlab Pages
-    url: https://baprx.gitlab.io/qigong-tuina-sallanches
-  - name: Cloud Run
+  - name: Qi Gong Attitude
     url: https://www.qigong-tuina-sallanches.fr
 
 status-website:
