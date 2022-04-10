@@ -4,17 +4,17 @@
     "url": "https://www.qigong-tuina-sallanches.fr",
     "icon": "https://favicons.githubusercontent.com/www.qigong-tuina-sallanches.fr",
     "slug": "qi-gong-attitude",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 830,
-    "timeDay": 604,
-    "timeWeek": 2336,
-    "timeMonth": 1163,
-    "timeYear": 830,
+    "time": 824,
+    "timeDay": 496,
+    "timeWeek": 2093,
+    "timeMonth": 1139,
+    "timeYear": 824,
     "dailyMinutesDown": {}
   }
 ]
